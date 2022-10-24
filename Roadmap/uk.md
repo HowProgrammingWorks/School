@@ -10,6 +10,7 @@
 
 ![Roadmap](https://user-images.githubusercontent.com/4405297/192475068-6ab213d7-43f8-4f4f-9d3d-8a2aceb17476.png)
 
+- [Тренінги для викладачів](Teachers-uk.md)
 - Базові знання для всіх
   - [Використання обчислювальної техніки та комунікаційних пристроїв](Literacy-uk.md)
   - [Основи програмування](Programming-uk.md)
